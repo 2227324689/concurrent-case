@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="threadpool-monitor" />
+        <module name="concurrent-chapter-7" />
+        <module name="concurrent-chapter-1" />
+        <module name="concurrent-chapter-11" />
+        <module name="concurrent-chapter-8" />
+        <module name="concurrent-chapter-9" />
+        <module name="completablefuture-application" />
+        <module name="concurrent-chapter-10" />
+        <module name="concurrent-chapter-6" />
+        <module name="concurrent-chapter-5" />
+        <module name="concurrent-chapter-4" />
+        <module name="concurrent-chapter-3" />
+        <module name="concurrent-chapter-2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="completablefuture-application" options="-parameters" />
+      <module name="threadpool-monitor" options="-parameters" />
+    </option>
+  </component>
+</project>

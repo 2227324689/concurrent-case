@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/completablefuture-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrent-chapter-9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threadpool-monitor/src/main/java" charset="UTF-8" />
+  </component>
+</project>
